@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">✨ Hi there, I'm Lorenzo Torrez 👋</h1>
 
-<!--
-**JLtz00/JLtz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 <b>Computer Science Student</b> at Universidad Nacional de San Agustín de Arequipa (UNSA) <br>
+  🚀 Passionate about coding, algorithms, and artificial intelligence <br>
+  🌱 Always learning and exploring new technologies
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 About Me
+- 🎓 Currently in my **2nd year** of Computer Science  
+- 💡 Interested in **AI, Data Science, and Web Development**  
+- 🧠 Learning **C++, Python, PHP, and SQL**  
+- 📚 Focused on building solid foundations in algorithms and data structures  
+- ⚙️ Enjoy working on both backend and logic-intensive projects  
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🧑‍💻 Languages
+`C++` `Python` `PHP` `Java` `SQL`
+
+#### 🧰 Tools & Frameworks
+`Git` `Linux` `VS Code` `XAMPP` `MySQL` `HTML` `CSS`
+
+#### ☁️ Interests
+`Artificial Intelligence` `Machine Learning` `Full-Stack Development`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzotorrez&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzotorrez&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/lorenzotorrez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lorenzotorrez@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lorenzotorrez">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ “Code is like art — simple, elegant, and full of logic.”
+</p>
