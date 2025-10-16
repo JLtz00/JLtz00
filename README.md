@@ -11,7 +11,7 @@
 ### 🧩 About Me
 - 🎓 Currently in my **2nd year** of Computer Science  
 - 💡 Interested in **AI, Data Science, and Web Development**  
-- 🧠 Learning **C++, Python, PHP, and SQL**  
+- 🧠 Learning **C++, C, Python, PHP, and SQL**  
 - 📚 Focused on building solid foundations in algorithms and data structures  
 - ⚙️ Enjoy working on both backend and logic-intensive projects  
 
@@ -20,10 +20,10 @@
 ### 🛠️ Tech Stack
 
 #### 🧑‍💻 Languages
-`C++` `Python` `PHP` `Java` `SQL`
+`C++` `C` `Python` `PHP` `Java` `SQL`
 
 #### 🧰 Tools & Frameworks
-`Git` `Linux` `VS Code` `XAMPP` `MySQL` `HTML` `CSS`
+`Git` `Linux` `VS Code` `Vim` `XAMPP` `MySQL` `HTML` `CSS`
 
 #### ☁️ Interests
 `Artificial Intelligence` `Machine Learning` `Full-Stack Development`
@@ -46,9 +46,6 @@
   </a>
   <a href="mailto:lorenzoltx@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/JLtz00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
